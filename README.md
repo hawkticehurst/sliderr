@@ -2,7 +2,7 @@
 
 A diy project building a 3-axis motion controlled camera slider using only sourced parts.
 
-[Slider Test Footage](https://youtu.be/CUi4NhEGpUY)
+[Slider Test Footage](https://youtu.be/ap7EiZdusbA)
 
 *More Detailed Documentation and Updates Coming Soon*
 
