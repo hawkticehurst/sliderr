@@ -4,7 +4,7 @@ A diy project building a 3-axis motion controlled camera slider using only sourc
 
 [Slider Test Footage](https://youtu.be/CUi4NhEGpUY)
 
-*More Detailed Documentation and Updates to Come Soon*
+*More Detailed Documentation and Updates Coming Soon*
 
 ## Project Status
 
@@ -25,4 +25,20 @@ Now beginning to finally implement custom software to control and give functiona
 
 ## Slider Photos
 
-![](assets/slider1.jpeg)
+![Photo of camera slider](assets/slider1.jpeg)
+
+![Photo of camera slider](assets/slider2.jpeg)
+
+![Photo of camera slider](assets/slider3.jpeg)
+
+![Photo of camera slider](assets/slider4.jpeg)
+
+![Photo of camera slider](assets/slider5.jpeg)
+
+![Photo of camera slider](assets/slider6.jpeg)
+
+![Photo of Arduino and CNC Shield](assets/arduino1.jpeg)
+
+![Photo of Arduino and CNC Shield](assets/arduino2.jpeg)
+
+![Photo of Arduino and CNC Shield](assets/arduino3.jpeg)
