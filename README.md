@@ -8,7 +8,7 @@ A diy project building a 3-axis motion controlled camera slider using only sourc
 
 ## Project Status
 
-Currently, the components for a one axis slider has been sourced and created. The slider is composed of:
+Currently, the components for a one axis slider has been sourced and put together. The slider is composed of:
 
 - A CNC linear rail and gantry plate system
 - Belt and pinion system
