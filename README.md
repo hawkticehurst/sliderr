@@ -29,8 +29,6 @@ Now beginning to finally implement custom software to control and give functiona
 
 ![Photo of camera slider](assets/slider2.jpeg)
 
-![Photo of camera slider](assets/slider3.jpeg)
-
 ![Photo of camera slider](assets/slider4.jpeg)
 
 ![Photo of camera slider](assets/slider5.jpeg)
