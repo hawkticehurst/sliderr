@@ -14,7 +14,7 @@ This project is under active development.
 
 ## Hardware ⚙️
 
-Currently, the components for a one axis slider has been sourced and assembled. *More detailed hardware list and pricing to come.*
+Currently, the components for a one axis slider has been sourced and assembled. *A more detailed hardware list and component pricing is in the works.*
 
 - Arduino Uno
 - CNC Shield
