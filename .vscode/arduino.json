@@ -1,4 +1,4 @@
 {
     "board": "arduino:avr:uno",
-    "sketch": "src/MocoSlider/examples/serial_control/serial_control.ino"
+    "sketch": "src/moco_slider.ino"
 }
