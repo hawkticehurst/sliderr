@@ -19,6 +19,7 @@ Currently, the components for a one axis slider has been sourced and assembled. 
 - Arduino Uno
 - CNC Shield
 - A4988 Stepper Motor Driver
+- HM-10 Bluetooth Module
 - NEMA 17 Motor (~78oz/in)
 - CNC linear rail and gantry plate system
 - Belt and pinion system
