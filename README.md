@@ -1,6 +1,6 @@
-# Motion Controlled Camera Slider
+# Bluetooth Motion Controlled Camera Slider
 
-A diy project aimed at building a motion controlled camera slider for under $250 using only sourced parts found online.
+A diy project aimed at building a bluetooth enabled motion-controlled camera slider for under $250 using only sourced parts found online.
 
 [Slider Test Footage](https://youtu.be/ap7EiZdusbA)
 
