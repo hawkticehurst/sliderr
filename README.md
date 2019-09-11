@@ -1,27 +1,29 @@
 # Motion Controlled Camera Slider
 
-A diy project building a motion controlled camera slider using only sourced parts.
+A diy project aimed at building a motion controlled camera slider for under $250 using only sourced parts found online.
 
 [Slider Test Footage](https://youtu.be/ap7EiZdusbA)
 
-*More Detailed Documentation and Updates Coming Soon*
+## Status ✅
 
-## Project Status
+This project is under active development.
 
-Currently, the components for a one axis slider has been sourced and put together. The slider is composed of:
+- [Basic Slider Functionality](src/MocoSlider/MocoSlider.cpp)
+- [Bluetooth Control Interface](src/moco_slider.ino)
+- [Serial Monitor Control Interface](src/MocoSlider/examples/serial_control/serial_control.ino)
 
-- A CNC linear rail and gantry plate system
-- Belt and pinion system
-- 80/20 Inc Locking Hinge
-- Quick Release Plate
-- NEMA 17 Motor
+## Hardware ⚙️
+
+Currently, the components for a one axis slider has been sourced and assembled.
+
 - Arduino Uno
 - CNC Shield
 - A4988 Stepper Motor Driver
-
-[Universal Gcode Sender](https://winder.github.io/ugs_website/) is currently being used to control slider while testing.
-
-Now beginning to finally implement custom software to control and give functionality to the slider. See "tests" folder to look over some initial experiments, as I'm just getting my feet wet with the Arduino ecosystem and programming.
+- NEMA 17 Motor (~78oz/in)
+- CNC linear rail and gantry plate system
+- Belt and pinion system
+- 80/20 Inc Locking Hinge
+- Camera Quick Release Plate
 
 ## Slider Photos
 
@@ -35,8 +37,6 @@ Now beginning to finally implement custom software to control and give functiona
 
 ![Photo of camera slider](assets/slider6.jpeg)
 
-![Photo of Arduino and CNC Shield](assets/arduino1.jpeg)
+![Photo of Arduino and CNC Shield](assets/arduino3.jpeg)
 
 ![Photo of Arduino and CNC Shield](assets/arduino2.jpeg)
-
-![Photo of Arduino and CNC Shield](assets/arduino3.jpeg)

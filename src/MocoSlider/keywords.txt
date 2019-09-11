@@ -1,0 +1,29 @@
+#####################################
+# Syntax Coloring Map For MocoSlider
+#####################################
+
+#####################################
+# Datatypes (KEYWORD1)
+#####################################
+
+MocoSlider  KEYWORD1
+
+#####################################
+# Methods and Functions (KEYWORD2)
+#####################################
+
+setSliderSpeed  KEYWORD2
+setSliderAcceleration   KEYWORD2
+setSliderLeftBoundary   KEYWORD2
+setSliderRightBoundary  KEYWORD2
+setMoveStartPosition    KEYWORD2
+setMoveEndPosition  KEYWORD2
+runSliderToLeftBoundary KEYWORD2
+runSliderToRightBoundary    KEYWORD2
+runSliderToMoveStart    KEYWORD2
+runSliderToMoveEnd  KEYWORD2
+runSliderToCenter   KEYWORD2
+moveSlider  KEYWORD2
+stopSlider  KEYWORD2
+printDebugInfo    KEYWORD2
+ 
