@@ -73,10 +73,12 @@ void loop()
 /**
  * Execute slider functionality based on user input.
  * 
- * Input bytes are arbitrarily mapped to slider functionality 
- * at this point. Below function "handleStringInput" is being developed 
- * in hopes of making the mapping from bluetooth user input to slider 
- * functionality less abritrary.
+ * NOTE: Input bytes are arbitrarily mapped to slider functionality 
+ * at this point. 
+ * 
+ * The "handleStringInput" function is being developed with the goal of 
+ * making the mapping from bluetooth user input to slider functionality 
+ * less abritrary.
  */
 void handleByteInput()
 {
@@ -156,6 +158,16 @@ void handleStringInput()
 
 /**
  * Build input string from incoming bytes of serial data.
+ * 
+ * An input string contains data if a colon is present in the string. The 
+ * following schema is used to transmit both a slider function and its 
+ * associated data over bluetooth:
+ * 
+ *      <slider function>:<input data>
+ * 
+ * As an example:
+ * 
+ *      mv:5000 => Execute moveSlider(5000)
  */
 void buildInputString()
 {
@@ -214,16 +226,6 @@ void terminateString()
 /**
  * Check if input string contains data and call functions to extract data
  * if present.
- * 
- * An input string contains data if a colon is present in the string. The 
- * following schema is used to transmit both a slider function and its 
- * associated data over bluetooth:
- * 
- *      <slider function>:<input data>
- * 
- * As an example:
- * 
- *      mv:5000 => Call moveSlider(5000)
  */
 void checkStringForData()
 {
