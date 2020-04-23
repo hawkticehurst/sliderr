@@ -17,17 +17,16 @@
     Stepper Motor Control: CNC Shield & A4988 Stepper Motor Driver
     Bluetooth: HM-10 Module
 */
-
 #include <MocoSlider.h>
 
 MocoSlider slider;
-int incomingByte = 0;           // Incoming serial data
-int totalStrLength = 20;        // Total possible length of the input string
-int currStrLength = 0;          // Current string length
-int strIndex = 0;               // Current string index
-char inputStr[20];              // Input string character array (i.e. the input string)
-bool isInputComplete = false;   // String completetion boolean flag
-long stringData = 0;            // Data retrieved from input string (i.e. number of steps) 
+int incomingByte = 0;         // Incoming serial data
+int totalStrLength = 20;      // Total possible length of the input string
+int currStrLength = 0;        // Current string length
+int strIndex = 0;             // Current string index
+char inputStr[20];            // Input string character array (i.e. the input string)
+bool isInputComplete = false; // String completetion boolean flag
+long stringData = 0;          // Data retrieved from input string (i.e. number of steps)
 
 void setup()
 {
@@ -130,9 +129,9 @@ void handleByteInput()
         // Set fast acceleration
         slider.setSpeed(5000);
         break;
-    case 62:
-        slider.moveSliderNonBlocking(20000);
-        break;
+    // case 62:
+    //     slider.moveSliderNonBlocking(20000);
+    //     break;
     case 63:
         slider.stopSlider();
         break;

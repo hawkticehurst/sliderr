@@ -1,3 +1,7 @@
+#include "Arduino.h"
+#include "MocoSlider.h"
+#include "AccelStepper.h"
+
 /*
     MocoSlider.h – Library for managing a 1-axis motion controlled (moco) camera slider.
     Created by Hawk Ticehurst
@@ -11,10 +15,6 @@
         https://www.airspayce.com/mikem/arduino/AccelStepper/index.html
     
 */
-
-#include "Arduino.h"
-#include "MocoSlider.h"
-#include "AccelStepper.h"
 
 MocoSlider::MocoSlider()
 {

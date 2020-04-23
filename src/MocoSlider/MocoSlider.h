@@ -31,13 +31,13 @@ public:
     bool checkForStop();
 
 private:
-    AccelStepper stepperX;          // Defaults to AccelStepper::FULL4WIRE (4 pins) on 2, 3, 4, 5
-    long LEFT_BOUNDARY;             // The left-most edge of the slider (in steps)
-    long RIGHT_BOUNDARY;            // The right-most edge of the slider (in steps)
-    long SLIDER_MOVE_START;         // Starting position (in steps) of a slider move
-    long SlIDER_MOVE_END;           // Ending position (in steps) of a slider move
-    long CURRENT_ACCELERATION;      // Currently set max acceleration of the slider (in steps/sec/sec)
-    long CURRENT_SPEED;             // Currently set max speed of the slider (in steps/sec)
+    AccelStepper stepperX;     // Defaults to AccelStepper::FULL4WIRE (4 pins) on 2, 3, 4, 5
+    long LEFT_BOUNDARY;        // The left-most edge of the slider (in steps)
+    long RIGHT_BOUNDARY;       // The right-most edge of the slider (in steps)
+    long SLIDER_MOVE_START;    // Starting position (in steps) of a slider move
+    long SlIDER_MOVE_END;      // Ending position (in steps) of a slider move
+    long CURRENT_ACCELERATION; // Currently set max acceleration of the slider (in steps/sec/sec)
+    long CURRENT_SPEED;        // Currently set max speed of the slider (in steps/sec)
 };
 
 #endif
