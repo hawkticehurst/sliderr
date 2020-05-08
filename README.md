@@ -8,15 +8,15 @@ A DIY project aimed at building a Bluetooth enabled motion-controlled camera sli
 
 This project is under active development.
 
+### Bluetooth Camera Slider
+
 - [Basic Slider Functionality](src/MocoSlider/MocoSlider.cpp)
 - [Bluetooth Control Interface](src/moco_slider.ino)
 - [Serial Monitor Control Interface](src/MocoSlider/examples/serial_control/serial_control.ino)
 
-## Camera Slider Controller
+### Camera Slider Controller
 
-A web app for controlling the Bluetooth camera slider is under active development.
-
-[Bluetooth Camera Controller Repo](https://github.com/hawkticehurst/bluetooth-camera-controller)
+A [web app](https://github.com/hawkticehurst/camera-slider-controller) for controlling the Bluetooth camera slider is also under active development.
 
 ## Hardware
 
