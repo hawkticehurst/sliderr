@@ -2,6 +2,8 @@
 
 A DIY project aimed at building a Bluetooth enabled motion-controlled camera slider for under $250.
 
+![Slider Gif](assets/slider.gif)
+
 [Slider Test Footage](https://youtu.be/ap7EiZdusbA)
 
 ## Status
