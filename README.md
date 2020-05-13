@@ -20,14 +20,14 @@ A [web app](https://github.com/hawkticehurst/camera-slider-controller) for contr
 
 ## Demo
 
-- [Slider Test Footage](https://youtu.be/ap7EiZdusbA)
+- [Camera Slider Reel](https://youtu.be/ap7EiZdusbA)
 
 ## Hardware
 
-Currently, the components for a one axis slider have been sourced and assembled. *A more detailed hardware list and component pricing is in the works.*
+Currently, the components for a one-axis slider have been sourced and assembled. *A more detailed hardware list and component pricing is in the works.*
 
 - Arduino Uno
-- CNC Shield
+- CNC Arduino Shield
 - A4988 Stepper Motor Driver
 - HM-10 Bluetooth Module
 - NEMA 17 Motor (~78oz/in)
