@@ -1,10 +1,12 @@
-# Bluetooth Camera Slider
+<h1 align="center">Bluetooth Camera Slider</h1>
 
-A DIY project aimed at building a Bluetooth enabled motion-controlled camera slider for under $250.
+<h4 align="center">A DIY project aimed at building a Bluetooth enabled motion-controlled camera slider for under $250.</h4>
 
-![Slider Gif](assets/slider.gif)
+<p align="center">
+  <a href="#status">Status</a>&nbsp;|&nbsp;<a href="#demo">Demo</a>&nbsp;|&nbsp;<a href="#browser-support">Hardware</a>
+</p>
 
-[Slider Test Footage](https://youtu.be/ap7EiZdusbA)
+<div align="center"><img src="assets/slider.gif"/></div>
 
 ## Status
 
@@ -19,6 +21,10 @@ This project is under active development.
 ### Camera Slider Controller
 
 A [web app](https://github.com/hawkticehurst/camera-slider-controller) for controlling the Bluetooth camera slider is also under active development.
+
+## Demo
+
+- [Slider Test Footage](https://youtu.be/ap7EiZdusbA)
 
 ## Hardware
 
