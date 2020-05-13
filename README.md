@@ -3,7 +3,7 @@
 <h4 align="center">A DIY project aimed at building a Bluetooth enabled motion-controlled camera slider for under $250.</h4>
 
 <p align="center">
-  <a href="#status">Status</a>&nbsp;|&nbsp;<a href="#demo">Demo</a>&nbsp;|&nbsp;<a href="#browser-support">Hardware</a>
+  <a href="#status">Status</a>&nbsp;|&nbsp;<a href="#demo">Demo</a>&nbsp;|&nbsp;<a href="#browser-support">Hardware</a>|&nbsp;<a href="#license">License</a>&nbsp;
 </p>
 
 <div align="center"><img src="assets/slider.gif"/></div>
@@ -39,6 +39,21 @@ Currently, the components for a one axis slider has been sourced and assembled. 
 - Belt and pinion system
 - 80/20 Inc Locking Hinge
 - Camera Quick Release Plate
+
+<div align="center">
+<img src="assets/slider1.jpeg" width="350px"/>
+<img src="assets/slider2.jpeg" width="350px"/>
+</div>
+
+<div align="center">
+<img src="assets/slider3.jpeg" width="350px"/>
+<img src="assets/slider4.jpeg" width="350px"/>
+</div>
+
+<div align="center">
+<img src="assets/slider5.jpeg" width="350px"/>
+<img src="assets/arduino1.jpeg" width="350px"/>
+</div>
 
 ## License
 
