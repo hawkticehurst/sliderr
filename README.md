@@ -3,20 +3,16 @@
 <h4 align="center">A DIY project aimed at building a Bluetooth enabled motion-controlled camera slider for under $250.</h4>
 
 <p align="center">
-  <a href="#status">Status</a>&nbsp;|&nbsp;<a href="#demo">Demo</a>&nbsp;|&nbsp;<a href="#browser-support">Hardware</a>|&nbsp;<a href="#license">License</a>&nbsp;
+  <a href="#status">Status</a>&nbsp;|&nbsp;<a href="#demo">Demo</a>&nbsp;|&nbsp;<a href="#hardware">Hardware</a>|&nbsp;<a href="#license">License</a>&nbsp;
 </p>
 
 <div align="center"><img src="assets/slider.gif"/></div>
 
 ## Status
 
-This project is under active development.
-
 ### Bluetooth Camera Slider
 
-- [Basic Slider Functionality](src/MocoSlider/MocoSlider.cpp)
-- [Bluetooth Control Interface](src/moco_slider.ino)
-- [Serial Monitor Control Interface](src/MocoSlider/examples/serial_control/serial_control.ino)
+This project is under active development.
 
 ### Camera Slider Controller
 
@@ -28,7 +24,7 @@ A [web app](https://github.com/hawkticehurst/camera-slider-controller) for contr
 
 ## Hardware
 
-Currently, the components for a one axis slider has been sourced and assembled. *A more detailed hardware list and component pricing is in the works.*
+Currently, the components for a one axis slider have been sourced and assembled. *A more detailed hardware list and component pricing is in the works.*
 
 - Arduino Uno
 - CNC Shield
