@@ -20,7 +20,7 @@ A [web app](https://github.com/hawkticehurst/camera-slider-controller) for contr
 
 ## Demo
 
-- [Camera Slider Reel](https://youtu.be/ap7EiZdusbA)
+- [Camera Slider Test Reel](https://youtu.be/ap7EiZdusbA)
 
 ## Hardware
 
