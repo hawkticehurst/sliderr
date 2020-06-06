@@ -3,7 +3,7 @@
 <h4 align="center">A DIY project aimed at building a Bluetooth enabled motion-controlled camera slider for under $250.</h4>
 
 <p align="center">
-  <a href="#status">Status</a>&nbsp;|&nbsp;<a href="#demo">Demo</a>&nbsp;|&nbsp;<a href="#hardware">Hardware</a>|&nbsp;<a href="#license">License</a>&nbsp;
+  <a href="#status">Status</a>&nbsp;|&nbsp;<a href="#demo">Demo</a>&nbsp;|&nbsp;<a href="#hardware">Hardware</a>&nbsp;|&nbsp;<a href="#license">License</a>&nbsp;
 </p>
 
 <div align="center"><img src="assets/slider.gif"/></div>
