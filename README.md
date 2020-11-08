@@ -16,7 +16,7 @@ This project is under active development.
 
 ### Camera Slider Controller
 
-A [web app](https://github.com/hawkticehurst/camera-slider-controller) for controlling the Bluetooth camera slider is also under active development.
+A [web app](https://github.com/hawkticehurst/sliderr-webapp) for controlling the Bluetooth camera slider is also under active development.
 
 ## Demo
 
