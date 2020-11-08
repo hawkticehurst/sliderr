@@ -1,4 +1,4 @@
-<h1 align="center">Bluetooth Camera Slider</h1>
+<h1 align="center">Sliderr</h1>
 
 <h4 align="center">A DIY project aimed at building a Bluetooth enabled motion-controlled camera slider for under $250.</h4>
 
