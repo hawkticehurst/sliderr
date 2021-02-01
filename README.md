@@ -10,7 +10,7 @@
 
 ## Demo
 
-- [Camera Slider Test Reel](https://youtu.be/ap7EiZdusbA)
+- [Camera Slider Test Reel](https://youtu.be/hPeMAkZiItc)
 
 ## Camera Slider Controller
 
